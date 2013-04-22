@@ -1,1 +1,1 @@
-This is the first app that I'm building while learning Ruby!
+[[This is the first app]] that I'm building while learning Ruby!
